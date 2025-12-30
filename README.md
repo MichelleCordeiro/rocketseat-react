@@ -21,9 +21,9 @@
 
 ├──📁 [Nível 1: fundamentos/](https://github.com/MichelleCordeiro/rocketseat-react/tree/main/1-fundamentos)<br>
 │   └───📁 projeto [Calculator](https://github.com/MichelleCordeiro/rocketseat-react/blob/main/1-fundamentos/README.md)<br>
-<!-- ├──📁 Nível 2<br>
+├──📁 Nível 2<br>
 │   ├───📁 projeto [ToDo/](https://github.com/MichelleCordeiro/rocketseat-react/tree/main/2-todo)<br>
-│   └───📁 desafio [HairDay/](https://github.com/MichelleCordeiro/rocketseat-react/tree/main/2-desafio-hairday)<br>
+<!-- │   └───📁 desafio [HairDay/](https://github.com/MichelleCordeiro/rocketseat-react/tree/main/2-desafio-hairday)<br>
 ├──📁 [stage-09-frontend/](https://github.com/MichelleCordeiro/rocketseat-explorer/tree/main/stage-09-frontend)<br>
 │   ├───📁 desafio-movie/<br>
 │   └───📁 rocketnotes/<br>
@@ -40,6 +40,7 @@
 <h3> 🚀 Tecnologias </h3>
 <p align="left">
   <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">React</code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"> Typescript</code>
   <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind">TailwindCSS</code>
   <code><img height="22" src="https://i.postimg.cc/y6mVYLYK/vite-js.png" alt="Vite">Vite</code>
   <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">HTML</code>

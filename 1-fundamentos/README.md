@@ -1,7 +1,8 @@
 <!--Banner session-->
+<div>
   <img src="https://i.postimg.cc/xT5jvJXF/rocketseat-logo-gray-dark.png" alt="Logo RocketSeat" width="180" align="left" style="padding-top:24px" />
-  <!-- <img src="https://i.postimg.cc/5tpZqB3N/explorer-logo.png" alt="Logo Explorer" width="150" align="right" /> -->
   <img src='https://i.postimg.cc/k52QTKKr/reactjs-logo-icon-170805.png' alt='react' width="120" align="right" />
+</div>
 <br><br><br>
 
 <!--About session-->
@@ -16,7 +17,7 @@
 This project was developed using the following technologies:
 <p>
   <code><img height="35" alt="react logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="35" alt="tailwind logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+  <code><img height="34" alt="tailwind logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
   <code><img height="34" src="https://i.postimg.cc/y6mVYLYK/vite-js.png" alt="Vite"></code>
   <code><img height="35" alt="html logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="35" alt="css logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -36,7 +37,7 @@ This project was developed using the following technologies:
  - Variants
  - CSS variables
 
-You can see the project code in this [repository](https://github.com/MichelleCordeiro/rocketseat-react/blob/main/1_fundamentos/4-calc-5-custom-hook.html).
+You can see the project code in this [repository](https://github.com/MichelleCordeiro/rocketseat-react/blob/main/1-fundamentos/4-calc-5-custom-hook.html).
 
 
 <br>

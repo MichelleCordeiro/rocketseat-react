@@ -7,6 +7,7 @@ import SpinnerIcon from './assets/icons/spinner.svg?react'
 import PencilIcon from './assets/icons/pencil.svg?react'
 import XIcon from './assets/icons/x.svg?react'
 import TrashIcon from './assets/icons/trash.svg?react';
+import Badge from './components/badge';
 
 export default function App() {
 
@@ -24,10 +25,15 @@ export default function App() {
       <div className='flex gap-1'>
         <Icon svg={CheckIcon} className='fill-pink-base' />
         <Icon svg={PlusIcon} />
-        <Icon svg={SpinnerIcon} animate/>
+        <Icon svg={SpinnerIcon} animate />
         <Icon svg={PencilIcon} />
         <Icon svg={XIcon} />
         <Icon svg={TrashIcon} />
+      </div>
+
+      <div>
+        <Badge variant='secondary'>5</Badge>
+        <Badge variant='primary'>2 de 5</Badge>
       </div>
     </div>
   );
